@@ -4,10 +4,10 @@ class Solution {
         int high = 0;
         int n = nums.length;
         int info = 0;
-        int res = 0;
+        int result = 0;
 
-        for (high=0; high<n; high++){
-
+        for(high=0; high<n; high++){
+            
             if(nums[high] == 0){
                 info++;
             }
@@ -18,9 +18,10 @@ class Solution {
                 }
                 low++;
             }
+
             int len = high - low + 1;
-            res = Math.max(res, len);
+            result = Math.max(result, len);
         }
-        return res;
+        return result;
     }
 }
