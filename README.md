@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/suraj-tiwary18/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -53,6 +55,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suraj-tiwary18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
@@ -64,4 +67,13 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suraj-tiwary18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
