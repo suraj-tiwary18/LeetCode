@@ -59,11 +59,13 @@
 | [0202-happy-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suraj-tiwary18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
