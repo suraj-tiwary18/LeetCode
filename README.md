@@ -7,6 +7,7 @@
 | ------- |
 | [0018-4sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/suraj-tiwary18/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/suraj-tiwary18/LeetCode/tree/master/0457-circular-array-loop) |
@@ -50,6 +51,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/suraj-tiwary18/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0713-subarray-product-less-than-k) |
