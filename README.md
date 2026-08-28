@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/suraj-tiwary18/LeetCode/tree/master/0457-circular-array-loop) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/suraj-tiwary18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0143-reorder-list) |
