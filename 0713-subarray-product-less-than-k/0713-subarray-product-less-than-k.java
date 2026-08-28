@@ -14,20 +14,13 @@ class Solution {
 
             product = product * nums[high];
 
-            if(product < k){
-                int len = high - low + 1;
-                res = res + len;
-            }
-
             while(product >= k){
                 product = product / nums[low];
                 low++;
-
-                if(product < k){
-                    int len = high - low + 1;
-                    res = res + len;
-                }
             }
+
+            int len = high - low + 1;
+            res = res + len;
         }
         return res;
     }
