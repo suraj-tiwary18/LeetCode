@@ -9,12 +9,10 @@ class Solution {
                 left++;
             } else if (nums[right] % 2 == 1){
                 right--;
-            } else if (nums[left] % 2 != 0 && nums[right] % 2 != 1){
+            } else {
                 int temp = nums[left];
                 nums[left] = nums[right];
                 nums[right] = temp;
-                left++;
-                right--;
             }
         }
         return nums;
