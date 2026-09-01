@@ -9,16 +9,18 @@ class Solution {
                 left = left + 2;
                 continue;
             }
+            
             if(nums[right] % 2 != 0){
                 right = right + 2;
                 continue;
             }
-                int temp = nums[left];
-                nums[left] = nums[right];
-                nums[right] = temp;
 
-                left = left + 2; 
-                right = right + 2;
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+
+            left = left + 2; 
+            right = right + 2;
         }
         return nums;
     }
