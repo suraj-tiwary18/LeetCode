@@ -1,7 +1,7 @@
 class Solution {
     public int[] shortestToChar(String s, char c) {
         int sl = s.length();
-        int[] answer = new int[s.length()];
+        int[] answer = new int[sl];
 
         for(int i=0; i<sl; i++){
             int min = Integer.MAX_VALUE;
