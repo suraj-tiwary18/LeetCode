@@ -15,6 +15,7 @@
 | [0457-circular-array-loop](https://github.com/suraj-tiwary18/LeetCode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/suraj-tiwary18/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/suraj-tiwary18/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -58,6 +59,7 @@
 | [0541-reverse-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -93,6 +95,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/suraj-tiwary18/LeetCode/tree/master/0905-sort-array-by-parity) |
