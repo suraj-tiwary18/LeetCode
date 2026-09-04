@@ -64,6 +64,7 @@
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1332-remove-palindromic-subsequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/suraj-tiwary18/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
