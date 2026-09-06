@@ -63,6 +63,7 @@
 | [0541-reverse-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/suraj-tiwary18/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -103,6 +104,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0696-count-binary-substrings](https://github.com/suraj-tiwary18/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0876-middle-of-the-linked-list) |
