@@ -19,6 +19,7 @@
 | [0881-boats-to-save-people](https://github.com/suraj-tiwary18/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/suraj-tiwary18/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/suraj-tiwary18/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suraj-tiwary18/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -185,12 +186,14 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/suraj-tiwary18/LeetCode/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suraj-tiwary18/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0148-sort-list) |
+| [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -199,4 +202,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/suraj-tiwary18/LeetCode/tree/master/0881-boats-to-save-people) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
