@@ -67,6 +67,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/suraj-tiwary18/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
