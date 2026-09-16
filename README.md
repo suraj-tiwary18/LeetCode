@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/suraj-tiwary18/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj-tiwary18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -189,6 +190,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj-tiwary18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/suraj-tiwary18/LeetCode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -197,6 +199,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
