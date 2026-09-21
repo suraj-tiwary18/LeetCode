@@ -32,6 +32,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/suraj-tiwary18/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/suraj-tiwary18/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/suraj-tiwary18/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/suraj-tiwary18/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
