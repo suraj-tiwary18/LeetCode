@@ -8,6 +8,7 @@ class Solution {
 
         for(int i=0; i<n; i++){
             sum += nums[i];
+
             int rem = sum % k;
             if(f.containsKey(rem)){
                 int idx = f.get(rem);
@@ -15,10 +16,10 @@ class Solution {
                 if(i - idx >= 2){
                     return true;
                 }
+
             }else{
                 f.put(rem, i);
             }
-
         }
         return false;
     }
