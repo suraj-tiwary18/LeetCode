@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/suraj-tiwary18/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/suraj-tiwary18/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj-tiwary18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/suraj-tiwary18/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0148-sort-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/suraj-tiwary18/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0796-rotate-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/suraj-tiwary18/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
