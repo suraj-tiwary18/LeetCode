@@ -29,6 +29,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/suraj-tiwary18/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suraj-tiwary18/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -139,6 +140,7 @@
 | [0905-sort-array-by-parity](https://github.com/suraj-tiwary18/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0986-interval-list-intersections](https://github.com/suraj-tiwary18/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1332-remove-palindromic-subsequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/suraj-tiwary18/LeetCode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/suraj-tiwary18/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
