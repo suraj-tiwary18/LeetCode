@@ -3,8 +3,6 @@ class Solution {
         int n = firstList.length;
         int m = secondList.length;
 
-        // Arrays.sort(firstList, (a, b) -> a[0] - b[0]);
-
         ArrayList<int[]> res = new ArrayList<>();
 
         int i = 0;
@@ -13,6 +11,7 @@ class Solution {
         while(i<n && j<m){
             int start1 = firstList[i][0];
             int end1 = firstList[i][1];
+            
             int start2 = secondList[j][0];
             int end2 = secondList[j][1];
 
@@ -38,4 +37,4 @@ class Solution {
         }
         return res.toArray(new int[res.size()][]);
     }
-} 
+}
