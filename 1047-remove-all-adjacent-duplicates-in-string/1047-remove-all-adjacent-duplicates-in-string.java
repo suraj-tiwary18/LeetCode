@@ -16,7 +16,7 @@ class Solution {
             st.push(s.charAt(i));
         }
         while(!st.isEmpty()){
-            res = res + st.peek();
+                res = res + st.peek();
             st.pop();
         }
         StringBuilder ans = new StringBuilder(res);
