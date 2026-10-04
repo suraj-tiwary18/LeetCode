@@ -87,6 +87,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 ## Binary Search
 |  |
@@ -184,6 +185,7 @@
 | [0234-palindrome-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
