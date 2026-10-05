@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/suraj-tiwary18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/suraj-tiwary18/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -181,6 +182,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suraj-tiwary18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/suraj-tiwary18/LeetCode/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suraj-tiwary18/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
