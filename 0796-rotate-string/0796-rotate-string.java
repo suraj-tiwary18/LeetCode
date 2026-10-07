@@ -1,13 +1,12 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        
         if(s.length() != goal.length()){
             return false;
-        } else {
+        }else{
             String a = s + s;
             if(a.contains(goal)){
                 return true;
-            } else {
+            }else{
                 return false;
             }
         }
