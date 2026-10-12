@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/suraj-tiwary18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/suraj-tiwary18/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/suraj-tiwary18/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/suraj-tiwary18/LeetCode/tree/master/0056-merge-intervals) |
@@ -127,6 +128,7 @@
 | [0011-container-with-most-water](https://github.com/suraj-tiwary18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/suraj-tiwary18/LeetCode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/suraj-tiwary18/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0143-reorder-list) |
