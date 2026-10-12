@@ -79,6 +79,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/suraj-tiwary18/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/suraj-tiwary18/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/suraj-tiwary18/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suraj-tiwary18/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/suraj-tiwary18/LeetCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/suraj-tiwary18/LeetCode/tree/master/0496-next-greater-element-i) |
