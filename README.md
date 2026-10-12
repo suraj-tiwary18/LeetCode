@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/suraj-tiwary18/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj-tiwary18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suraj-tiwary18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -182,6 +183,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suraj-tiwary18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -193,6 +195,7 @@
 | [0020-valid-parentheses](https://github.com/suraj-tiwary18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/suraj-tiwary18/LeetCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suraj-tiwary18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/suraj-tiwary18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0503-next-greater-element-ii) |
