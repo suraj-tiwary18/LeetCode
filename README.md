@@ -25,6 +25,7 @@
 | [0525-contiguous-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/suraj-tiwary18/LeetCode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suraj-tiwary18/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/suraj-tiwary18/LeetCode/tree/master/0739-daily-temperatures) |
@@ -204,6 +205,7 @@
 | [0496-next-greater-element-i](https://github.com/suraj-tiwary18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/suraj-tiwary18/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/suraj-tiwary18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -227,6 +229,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/suraj-tiwary18/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
