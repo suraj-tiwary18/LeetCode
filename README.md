@@ -88,6 +88,7 @@
 | [0344-reverse-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/suraj-tiwary18/LeetCode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/suraj-tiwary18/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/suraj-tiwary18/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -202,6 +203,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/suraj-tiwary18/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/suraj-tiwary18/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/suraj-tiwary18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -236,12 +238,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/suraj-tiwary18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/suraj-tiwary18/LeetCode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/suraj-tiwary18/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/suraj-tiwary18/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/suraj-tiwary18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
