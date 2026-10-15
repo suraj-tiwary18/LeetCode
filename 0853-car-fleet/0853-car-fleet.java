@@ -11,16 +11,19 @@ class Solution {
 
         int fleets = 0;
         double prevTime = 0;
+        
         Stack<Double> st = new Stack<>();
 
         for(int i=0; i<position.length; i++){
-            double time = (double) (target - cars[i][0])/cars[i][1];
+            double time = (double) (target - cars[i][0]) / cars[i][1];
 
             if(time > prevTime){
                 fleets++;
                 prevTime = time;
             }
         }
+
         return fleets;
+
     }
 }
