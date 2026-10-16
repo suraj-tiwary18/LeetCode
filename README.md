@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/suraj-tiwary18/LeetCode/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/suraj-tiwary18/LeetCode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/suraj-tiwary18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -109,6 +110,7 @@
 | [0035-search-insert-position](https://github.com/suraj-tiwary18/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/suraj-tiwary18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/suraj-tiwary18/LeetCode/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -205,6 +207,7 @@
 | [0234-palindrome-linked-list](https://github.com/suraj-tiwary18/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/suraj-tiwary18/LeetCode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/suraj-tiwary18/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/suraj-tiwary18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -249,6 +252,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/suraj-tiwary18/LeetCode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/suraj-tiwary18/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/suraj-tiwary18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -301,4 +305,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suraj-tiwary18/LeetCode/tree/master/0020-valid-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/suraj-tiwary18/LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
