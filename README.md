@@ -215,6 +215,7 @@
 | [0739-daily-temperatures](https://github.com/suraj-tiwary18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/suraj-tiwary18/LeetCode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
@@ -258,6 +259,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/suraj-tiwary18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/suraj-tiwary18/LeetCode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,4 +311,12 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/suraj-tiwary18/LeetCode/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
