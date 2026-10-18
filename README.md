@@ -103,6 +103,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/suraj-tiwary18/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/suraj-tiwary18/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/suraj-tiwary18/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
@@ -221,6 +222,7 @@
 | [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/suraj-tiwary18/LeetCode/tree/master/0962-maximum-width-ramp) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/suraj-tiwary18/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
