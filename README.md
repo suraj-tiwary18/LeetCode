@@ -38,6 +38,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/suraj-tiwary18/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/suraj-tiwary18/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -160,6 +161,7 @@
 | [0905-sort-array-by-parity](https://github.com/suraj-tiwary18/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0962-maximum-width-ramp](https://github.com/suraj-tiwary18/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/suraj-tiwary18/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1332-remove-palindromic-subsequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -218,6 +220,7 @@
 | [0853-car-fleet](https://github.com/suraj-tiwary18/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/suraj-tiwary18/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/suraj-tiwary18/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
@@ -263,6 +266,7 @@
 | [0739-daily-temperatures](https://github.com/suraj-tiwary18/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/suraj-tiwary18/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/suraj-tiwary18/LeetCode/tree/master/0962-maximum-width-ramp) |
 ## Dynamic Programming
 |  |
 | ------- |
