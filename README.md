@@ -42,6 +42,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/suraj-tiwary18/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1124-longest-well-performing-interval](https://github.com/suraj-tiwary18/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/suraj-tiwary18/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -67,6 +68,7 @@
 | [0567-permutation-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/suraj-tiwary18/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1124-longest-well-performing-interval](https://github.com/suraj-tiwary18/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
@@ -129,6 +131,7 @@
 | [0724-find-pivot-index](https://github.com/suraj-tiwary18/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1124-longest-well-performing-interval](https://github.com/suraj-tiwary18/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj-tiwary18/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/suraj-tiwary18/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/suraj-tiwary18/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -226,6 +229,7 @@
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/suraj-tiwary18/LeetCode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/suraj-tiwary18/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1124-longest-well-performing-interval](https://github.com/suraj-tiwary18/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
@@ -271,6 +275,7 @@
 | [0853-car-fleet](https://github.com/suraj-tiwary18/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/suraj-tiwary18/LeetCode/tree/master/0962-maximum-width-ramp) |
+| [1124-longest-well-performing-interval](https://github.com/suraj-tiwary18/LeetCode/tree/master/1124-longest-well-performing-interval) |
 ## Dynamic Programming
 |  |
 | ------- |
