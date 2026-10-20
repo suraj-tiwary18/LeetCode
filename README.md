@@ -69,6 +69,7 @@
 | [0904-fruit-into-baskets](https://github.com/suraj-tiwary18/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suraj-tiwary18/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1124-longest-well-performing-interval](https://github.com/suraj-tiwary18/LeetCode/tree/master/1124-longest-well-performing-interval) |
+| [1172-dinner-plate-stacks](https://github.com/suraj-tiwary18/LeetCode/tree/master/1172-dinner-plate-stacks) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suraj-tiwary18/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
@@ -232,6 +233,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suraj-tiwary18/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/suraj-tiwary18/LeetCode/tree/master/1124-longest-well-performing-interval) |
+| [1172-dinner-plate-stacks](https://github.com/suraj-tiwary18/LeetCode/tree/master/1172-dinner-plate-stacks) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
@@ -335,8 +337,13 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
+| [1172-dinner-plate-stacks](https://github.com/suraj-tiwary18/LeetCode/tree/master/1172-dinner-plate-stacks) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/suraj-tiwary18/LeetCode/tree/master/0901-online-stock-span) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1172-dinner-plate-stacks](https://github.com/suraj-tiwary18/LeetCode/tree/master/1172-dinner-plate-stacks) |
 <!---LeetCode Topics End-->
