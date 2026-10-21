@@ -58,6 +58,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/suraj-tiwary18/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/suraj-tiwary18/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/suraj-tiwary18/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/suraj-tiwary18/LeetCode/tree/master/0457-circular-array-loop) |
@@ -94,6 +95,7 @@
 | [0316-remove-duplicate-letters](https://github.com/suraj-tiwary18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/suraj-tiwary18/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/suraj-tiwary18/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/suraj-tiwary18/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -306,6 +308,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suraj-tiwary18/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -346,4 +349,8 @@
 |  |
 | ------- |
 | [1172-dinner-plate-stacks](https://github.com/suraj-tiwary18/LeetCode/tree/master/1172-dinner-plate-stacks) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/suraj-tiwary18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
