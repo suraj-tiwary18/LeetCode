@@ -29,7 +29,7 @@ class Solution {
         ListNode t = head;
         int count = 1;
         while(t != null){
-            if(count == (n-k) ){
+            if(count == (n-k)){
                 break;
             }
             count++;
